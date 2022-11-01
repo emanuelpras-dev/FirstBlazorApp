@@ -1,0 +1,17 @@
+@page "/tweet"
+
+<h3>Tweet</h3>
+
+@foreach (var tweet in _tweets)
+{
+    <Tweet Text="@tweet" />
+}
+
+@code {
+    private List<string> _tweets;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _tweets = new List<string> { "One tweet", "Two tweets", "Three tweets", "Four" };
+    }
+}

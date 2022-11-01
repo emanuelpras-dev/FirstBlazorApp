@@ -31,8 +31,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/emanuel/Documents/refactory/project/dummy/FirstBlazorApp/Pages/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/emanuel/Documents/refactory/project/dummy/FirstBlazorApp/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emanuel/Documents/refactory/project/dummy/FirstBlazorApp/Pages/Tweet.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHdlZXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/emanuel/Documents/refactory/project/dummy/FirstBlazorApp/Shared/SurveyPrompt.razor]
